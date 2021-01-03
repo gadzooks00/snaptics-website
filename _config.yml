@@ -1,8 +1,8 @@
 title: snaptics
 theme: minima
   
-header_pages:
-  - billofparts.md
+#header_pages:
+ #- billofparts.md
 
 plugins:
   - jekyll-seo-tag
