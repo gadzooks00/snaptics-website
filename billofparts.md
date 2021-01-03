@@ -1,4 +1,8 @@
-# Bill of Parts
+---
+layout: page
+title: Bill of Parts
+permalink: /billofparts/
+---
 
 ## Modular Haptic Bracelet:
 
