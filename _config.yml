@@ -1,3 +1,9 @@
-theme: jekyll-theme-tactile
 title: snaptics
-description: open-source haptic wearables
+theme: tactile
+  
+header_pages:
+
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
