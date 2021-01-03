@@ -1,3 +1,1 @@
-# snaptics
-
 ## Under Construction
