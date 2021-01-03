@@ -1,6 +1,8 @@
 title: snaptics
 theme: minima
-  
+
+exclude: ['README.markdown', 'billofparts.md']
+
 header_pages:
  #- billofparts.md
 
