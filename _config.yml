@@ -1,7 +1,7 @@
 title: snaptics
 theme: minima
   
-#header_pages:
+header_pages:
  #- billofparts.md
 
 plugins:
