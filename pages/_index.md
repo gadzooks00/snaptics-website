@@ -4,7 +4,10 @@ title: snaptics
 description: open-source haptic wearables
 permalink: /
 ---
-## What is snaptics?
+<p align="center">
+  <img src="/photos/snaptics.jpg" alt="snaptics" width="400"/>
+</p>
+
 **snaptics** is an open source, low cost, haptics platform designed for rapid prototyping of fully wearable multi-sensory haptic devices. 
 
 There has been growing interest in using haptic devices to enhance virtual experiences or to increase the amount of information transferred to a user by wearable devices. 
@@ -15,4 +18,3 @@ Snaptics exists to increase community engagement with and accessibility of weara
 ## What it means to be open source
 
 **idk**
-
