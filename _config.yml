@@ -2,7 +2,7 @@ title: snaptics
 theme: minima
 
 header_pages:
- - pages/hardware.md
+ - pages/downloads.md
 
 plugins:
   - jekyll-seo-tag
