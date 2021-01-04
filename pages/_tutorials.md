@@ -4,7 +4,7 @@ title: Tutorials
 permalink: /tutorials/
 ---
 
-<img src="/photos/MISSIVE_replica.jpg" align="center">
+<img src="/photos/MISSIVE_Replica.jpg" align="center">
 
 |Tutorial|Description|
 |---|---|
