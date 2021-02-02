@@ -21,6 +21,7 @@ With snaptics you can quickly and easily build a simple wearable haptic device t
 ## Where to Start
 - For step-by-step guides on how to get started with Snaptics see our Tutorials Page
 - For information about what modules are currently available see our Hardware Page
+- For information about Snaptics electronics see our Electronics Page
 - For Snaptics 3D models see our Downloads Page
 - For other questions please see our FAQ Page or contact us at info@snaptics.org
 - For Snaptics license and publication information see our About Us Page
