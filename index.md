@@ -1,6 +1,6 @@
 ---
 layout: page
-title: snaptics
+title: 
 description: open-source haptic wearables
 permalink: /
 ---
