@@ -7,8 +7,6 @@ permalink: /
 <!-- <p align="center">
   <img src="photos/snaptics.jpg" alt="snaptics" width="400"/>
 </p> -->
-# Welcome to Snaptics
-
 ## What is Snaptics
 Snaptics is an open source, low cost, haptics platform designed for rapid prototyping of fully wearable multi-sensory haptic devices. 
 Snaptics uses modular framework allowing designers to quickly test and replace snaptic modules as desired.

@@ -3,7 +3,9 @@ layout: page
 title: Hardware
 permalink: /hardware/
 ---
+
 ## Actuation Modules
+
 |**Module Name**|**Description**|
 |:-----:|:-----|
 |[Stretch Module](https://www.thingiverse.com/thing:4746724) <img src="../modules/stretch/stretch_assembly.jpg" alt="stretch_assembly" style="width:750px;">| The stretch module delivers a tangential skin stretch using a servo motor actuating tangentially to the skin.The stretch module is composed of four parts: the clip, the tactor, the actuator, and the base. The twist and stretch modules feature SG90 micro servo motors commonly used in hobbyist applications as the main actuators. <br> *Dimensions*: <br>- Base(outer): 32.1mm x 25mm x 9mm <br>- Motor tab slot: 11.5mm x 3mm <br>- Motor body slot: 12.5mm x 26.5mm <br> - Clip: 18.4mm x 30.2mm x 8mm. |
@@ -12,6 +14,7 @@ permalink: /hardware/
 ---
 
 ## Electronics Modules
+
 |**Module Name**|**Description**|
 |:-----:|:-----|
 |[Control Module]() <img src="../modules/control/control_assembly.png" alt="control" style="width:750px;">| The control module houses the main control circuitry. The current version of the board features a frame, a custom-made printed circuit board, and a Sparkfun ESP32 Development Board. The frame uses a x-lattice structure to stabilize the base of the unit while minimizing material costs. <br> *Dimensions*:  <br>- Base(outer): 78mm x 56.5mm x 5mm <br>- Frame(inner): 76mm x 40mm <br><br> Rather than having the ESP32 control board interface directly with  the  actuators, it connects to female header pins on the PCB. This PCB features a plug for an external power supply, male header pins to connect actuators to, a 5V regulator, and low-side MOSFET control for the ERM motors. The board has eight servo and ERM ports and measures 75mm x 39mm.|
@@ -19,6 +22,7 @@ permalink: /hardware/
 ---
 
 ## Support Modules
+
 |**Module Name**|**Description**|
 |:-----:|:-----|
 |[Blank Module]() <img src="../modules/blank/blank_base.jpg" alt="blank" style="width:750px;"/>|The blank module is a simple rectangular frame of out dimensions with a x-lattice support in the frame to provide stability. The blank module includes the same chain lock and key mechanisms on either side to interface with any other module in order to give the designer freedom to space out modules on their desired device by adding or removing blank modules between actuation modules. <br>*Dimensions*:<br>- Base(outer): 32.1mm x 25mm x 6mm |
