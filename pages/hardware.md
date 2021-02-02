@@ -3,23 +3,24 @@ layout: page
 title: Hardware
 permalink: /hardware/
 ---
-
-# Actuation Modules
+## Actuation Modules
 |**Module Name**|**Description**|
-|:-----:|-----|
+|:-----:|:-----|
 |[Stretch Module](https://www.thingiverse.com/thing:4746724) <img src="../modules/stretch/stretch_assembly.jpg" alt="stretch_assembly" style="width:750px;">| The stretch module delivers a tangential skin stretch using a servo motor actuating tangentially to the skin.The stretch module is composed of four parts: the clip, the tactor, the actuator, and the base. The twist and stretch modules feature SG90 micro servo motors commonly used in hobbyist applications as the main actuators. <br> *Dimensions*: <br>- Base(outer): 32.1mm x 25mm x 9mm <br>- Motor tab slot: 11.5mm x 3mm <br>- Motor body slot: 12.5mm x 26.5mm <br> - Clip: 18.4mm x 30.2mm x 8mm. |
 |[Twist Module](https://www.thingiverse.com/thing:4746750) <img src="../modules/twist/twist_assembly.jpg" alt="twist_assembly" style="width:750px;"> | The twist module delivers a tangential skin twist using a servo motor actuating normal to the surface of the skin. The twist module is composed of four parts: the clip, the tactor, the actuator, and the base. The twist and stretch modules feature SG90 micro servo motors commonly used in hobbyist applications as the main actuators. <br> *Dimensions*:  <br>- Base(outer): 32.1mm x 25mm x 8.3mm <br>- Shaft-side slot: 15.5mm x 12.5mm <br>- Motor body slot: 22.9mm x 12.5mm |
 |[ERM Vibration Module](https://www.thingiverse.com/thing:4746743) <img src="../modules/erm_vibration/erm_vibration_assembly.jpg" alt="ERM" style="width:750px;">| The ERM vibration module with its base components. The cylindrical eccentric rotating mass motor is secured to the 3d printed module frame with a light press fit. The vibration of the ERM motor is transmitted to the skin via the contact surface of the module frame. The ERM vibration module is composed of three parts: the actuator, the base, and the clip. <br> *Dimensions*:  <br>- Base(outer): 32.1mm x 25mm x 6mm <br>- Slot-diameter: 6.3mm|
+---
 
-# Electronics Modules
+## Electronics Modules
 |**Module Name**|**Description**|
-|:-----:|-----|
+|:-----:|:-----|
 |[Control Module]() <img src="../modules/control/control_assembly.png" alt="control" style="width:750px;">| The control module houses the main control circuitry. The current version of the board features a frame, a custom-made printed circuit board, and a Sparkfun ESP32 Development Board. The frame uses a x-lattice structure to stabilize the base of the unit while minimizing material costs. <br> *Dimensions*:  <br>- Base(outer): 78mm x 56.5mm x 5mm <br>- Frame(inner): 76mm x 40mm <br><br> Rather than having the ESP32 control board interface directly with  the  actuators, it connects to female header pins on the PCB. This PCB features a plug for an external power supply, male header pins to connect actuators to, a 5V regulator, and low-side MOSFET control for the ERM motors. The board has eight servo and ERM ports and measures 75mm x 39mm.|
 |[Power Module]() <img src="../modules/power/power_assembly.jpg" alt="power" style="width:500px;">|The power module features a frame that provides support for the two power sources used in this device, one battery pack for motor support and a smaller lithium ion battery pack for electronics support. <br> *Dimensions*:  <br>- Base: 75mm x 69.5mm x 5mm|
+---
 
 ## Support Modules
 |**Module Name**|**Description**|
-|:-----:|-----|
+|:-----:|:-----|
 |[Blank Module]() <img src="../modules/blank/blank_base.jpg" alt="blank" style="width:750px;"/>|The blank module is a simple rectangular frame of out dimensions with a x-lattice support in the frame to provide stability. The blank module includes the same chain lock and key mechanisms on either side to interface with any other module in order to give the designer freedom to space out modules on their desired device by adding or removing blank modules between actuation modules. <br>*Dimensions*:<br>- Base(outer): 32.1mm x 25mm x 6mm |
 |[Terminal Modules]() <img src="../modules/terminal/terminal_bases.png" alt="strap_male" style="width:750px;"/>| The strap module is a converter piece between the chain style lock and key connections of the other modules to an interface that can be coupled with a simple strap or with 25mm webbing. The strap modules are adjustable and allow webbing or strapping to be tightened or loosened after attachment. <br>*Dimensions*:<br>- Base(male): 32.1mm x 16mm x 6mm <br>- Base(female): 32.1mm x 24.5mm x 6mm|
 
