@@ -17,11 +17,11 @@ Our platform exists to increase community engagement with and accessibility of w
 With snaptics you can quickly and easily build a simple wearable haptic device to integrate into your desired project for under $100.
 
 ## Where to Start
-- For step-by-step guides on how to get started with Snaptics see our Tutorials Page
-- For information about what modules are currently available see our Hardware Page
-- For information about Snaptics electronics see our Electronics Page
-- For Snaptics 3D models see our Downloads Page
-- For other questions please see our FAQ Page or contact us at info@snaptics.org
-- For Snaptics license and publication information see our About Us Page
+- For step-by-step guides on how to get started with Snaptics see our [Tutorials Page](https://www.snaptics.org/tutorials/)
+- For information about what modules are currently available see our [Hardware Page](https://www.snaptics.org/hardware/)
+- For information about Snaptics electronics see our [Electronics Page](https://www.snaptics.org/electronics/)
+- For Snaptics 3D models see our [Downloads Page](https://www.snaptics.org/downloads/)
+- For other questions please see our [FAQ Page](https://www.snaptics.org/faq/) or contact us at info@snaptics.org
+- For Snaptics license and publication information see our [About Us Page](https://www.snaptics.org/aboutus/)
 
 ### Please note this site is under construction. 
