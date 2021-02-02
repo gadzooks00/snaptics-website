@@ -11,16 +11,16 @@ permalink: /hardware/
 |[Stretch Module](https://www.thingiverse.com/thing:4746724) <img src="../modules/stretch/stretch_assembly.jpg" alt="stretch_assembly" style="width:300px;">| The stretch module delivers a tangential skin stretch using a servo motor actuating tangentially to the skin.The stretch module is composed of four parts: the clip, the tactor, the actuator, and the base. The twist and stretch modules feature SG90 micro servo motors commonly used in hobbyist applications as the main actuators. <br> *Dimensions*: <br>- Base(outer): 32.1mm x 25mm x 9mm <br>- Motor tab slot: 11.5mm x 3mm <br>- Motor body slot: 12.5mm x 26.5mm <br> - Clip: 18.4mm x 30.2mm x 8mm. |
 |[Twist Module](https://www.thingiverse.com/thing:4746750) <img src="../modules/twist/twist_assembly.jpg" alt="twist_assembly" style="width:300px;"> | The twist module delivers a tangential skin twist using a servo motor actuating normal to the surface of the skin. The twist module is composed of four parts: the clip, the tactor, the actuator, and the base. The twist and stretch modules feature SG90 micro servo motors commonly used in hobbyist applications as the main actuators. <br> *Dimensions*:  <br>- Base(outer): 32.1mm x 25mm x 8.3mm <br>- Shaft-side slot: 15.5mm x 12.5mm <br>- Motor body slot: 22.9mm x 12.5mm |
 |[ERM Vibration Module](https://www.thingiverse.com/thing:4746743) <img src="../modules/erm_vibration/erm_vibration_assembly.jpg" alt="ERM" style="width:300px;">| The ERM vibration module with its base components. The cylindrical eccentric rotating mass motor is secured to the 3d printed module frame with a light press fit. The vibration of the ERM motor is transmitted to the skin via the contact surface of the module frame. The ERM vibration module is composed of three parts: the actuator, the base, and the clip. <br> *Dimensions*:  <br>- Base(outer): 32.1mm x 25mm x 6mm <br>- Slot-diameter: 6.3mm|
----
 
+---
 ## Electronics Modules
 
 |**Module Name**|**Description**|
 |:-----:|:-----|
 |[Control Module]() <img src="../modules/control/control_assembly.png" alt="control" style="width:300px;">| The control module houses the main control circuitry. The current version of the board features a frame, a custom-made printed circuit board, and a Sparkfun ESP32 Development Board. The frame uses a x-lattice structure to stabilize the base of the unit while minimizing material costs. <br> *Dimensions*:  <br>- Base(outer): 78mm x 56.5mm x 5mm <br>- Frame(inner): 76mm x 40mm <br><br> Rather than having the ESP32 control board interface directly with  the  actuators, it connects to female header pins on the PCB. This PCB features a plug for an external power supply, male header pins to connect actuators to, a 5V regulator, and low-side MOSFET control for the ERM motors. The board has eight servo and ERM ports and measures 75mm x 39mm.|
 |[Power Module]() <img src="../modules/power/power_assembly.jpg" alt="power" style="width:500px;">|The power module features a frame that provides support for the two power sources used in this device, one battery pack for motor support and a smaller lithium ion battery pack for electronics support. <br> *Dimensions*:  <br>- Base: 75mm x 69.5mm x 5mm|
----
 
+---
 ## Support Modules
 
 |**Module Name**|**Description**|
