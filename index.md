@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 
-description: open-source haptic wearables
 permalink: /
 ---
 <!-- <p align="center">
