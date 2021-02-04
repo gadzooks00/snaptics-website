@@ -10,9 +10,6 @@ permalink: /faq/
 ### Can I use the Snaptics hardware in my project/research?
 - Yes! All hardware designs are licensed under the [TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/). We welcome and encourage any use of the snaptics platform and we hope you share with us your experiences.
 
-### Who maintains Snaptics?
-- Snaptics is developed and maintained by the [Mechatronics and Haptic Interfaces Lab](https://mahilab.rice.edu/) at Rice University in Houston, Texas, USA.
-
 ### Where can I purchase the materials for my own Snaptics project?
 - All Snaptics materials can be purchased as-is from a variety of sources both online and in brick and mortar hobbyist stores. The specific materials needed for each module are listed in our Hardware Page. We do not endorse any specific suppliers but have used the following in development: SparkFun, Amazon, DigiKey, RadioShack.
 
