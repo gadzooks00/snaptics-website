@@ -4,6 +4,12 @@ title: Hardware
 permalink: /hardware/
 ---
 
+## Snaptics Hardware Overview
+
+The Snaptics platform relies on a set of modules to create wearable bracelet haptic devices for users. While you are free to mix and match the modules that will be best suited for your project we have a few recommendations to get the most out of your Snaptics project:
+- Assemble one control and power module for each bracelet that will require independent control.
+- Wires will go from the control module to the actuation modules so try to keep them close
+- The skin can get desensitized from too much haptic actuation in a localized space so consider using blank modules to space out your actuation
 
 ## Actuation Modules
 

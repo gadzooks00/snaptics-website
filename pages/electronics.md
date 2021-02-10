@@ -4,7 +4,7 @@ title: Electronics
 permalink: /electronics/
 ---
 
-## Snaptics Control Board Overview
+## Snaptics Electronics Overview
 
 The Snaptics control board is an expansion board for a Sparkfun ESP32 Microcontroller to allow the ESP32 to safely and simply control the electronics used in various Snaptics actuation modules. For information on the ESP32 microcontroller please visit their product page [here](https://www.sparkfun.com/products/13907).
 

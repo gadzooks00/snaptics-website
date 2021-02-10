@@ -4,7 +4,7 @@ title: Software
 permalink: /software/
 ---
 
-## Background
+## Snaptics Software Overview
 
 The Snaptics platform currently does not offer a software package to accompany the electronics and hardware. Snaptics has been designed using a SparkFun ESP32 Development board to allow users to easily connect Snaptics to their desired application. 
 
