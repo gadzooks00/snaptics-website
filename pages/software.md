@@ -12,5 +12,5 @@ For a basic tutorial of the capabilities of the microcontroller, please consult 
 
 For pin assignments from the microcontroller to the Snaptics PCB board please check out our [Electronics Page](www.snaptics.org/electronics).
 
-## Under Construction
+## Template Code - Under Construction
 We are still working on our software page including full Snaptics example projects with template code.  Please check back here at a later date!
