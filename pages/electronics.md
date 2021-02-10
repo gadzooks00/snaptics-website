@@ -16,6 +16,7 @@ The Snaptics PCB board provides mounting pins to attach to a [Sparkfun ESP32 Dev
 
 ## How to Get a Snaptics Control Board - Under Construction
 We are still working on production and distribution of our electronics board. Please check back here at a later date!
+
 <!-- All documentation and files required for the reproduction of these electronics board are provided below. We recommend outsourcing these boards for production and turnkey assembly to make the process as simple and cheap as possible. While there are many suppliers for PCB manufacture, we have used PCBWay and can confirm the PCBs work. For more detailed instructions on how to obtain your own Snaptics control board please visit our associated [tutorial](www.snaptics.org/tutorials).
 
 |**Board Version**|**Description**|**Downloads**|
