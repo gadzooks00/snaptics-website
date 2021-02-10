@@ -4,17 +4,50 @@ title: Electronics
 permalink: /electronics/
 ---
 
-# Under Construction
-We are still working our electronic page. Please check back here at a later date!
+## Snaptics Control Board Overview
 
+The Snaptics control board is an expansion board for a Sparkfun ESP32 Microcontroller to allow the ESP32 to safely and simply control the electronics used in various Snaptics actuation modules. For information on the ESP32 microcontroller please visit their product page [here](https://www.sparkfun.com/products/13907).
 
-<!-- ## Snaptics Control Board 
+<p align="center">
+  <img src="photos/../../photos/PCBV2_diagram.png" alt="snaptics" width="400"/>
+</p>
 
-The Snaptics control board is an expansion board for a Sparkfun ESP32 Microcontroller to allow the ESP32 to safetly and simply control the electronics used in various Snaptics actuation modules. The detailed specifications on this expansion board are as follows:
+The Snaptics PCB board provides mounting pins to attach to a [Sparkfun ESP32 Development Board](https://www.sparkfun.com/products/13907). With the ESP32 as the controller this board allows makers to control up to 8 vibration motors using the ERM output pins and 8 servo motors using the Servo output pins at a time. Servo output pins connect directly into the ESP32 PWM output pins and to motor power while ERM output pins are controlled with a simple onboard MOSFET circuit to simplify the control on the microcontroller. The control board is powered with 6V operating power pack to provide power to the actuation modules. ESP32 power is provided directly to the board using a separate power supply of operating range 2.2V to 3.6V. 
 
-All documentation and files required for the reproduction of these electronics board are provided below. We reccommend outsourcing these boards for production and turnkey assembly to make the process as simple and cheap as possible. While there are many suppliers for PCB manufacture, we have used PCBWay and can confirm the PCBs work. For more detailed instructions on how to obtain your own Snaptics control board please visit our associated [tutorial](www.snaptics.org/tutorials).
+## How to Get a Snaptics Control Board - Under Construction
+We are still working on production and distribution of our electronics board. Please check back here at a later date!
+<!-- All documentation and files required for the reproduction of these electronics board are provided below. We recommend outsourcing these boards for production and turnkey assembly to make the process as simple and cheap as possible. While there are many suppliers for PCB manufacture, we have used PCBWay and can confirm the PCBs work. For more detailed instructions on how to obtain your own Snaptics control board please visit our associated [tutorial](www.snaptics.org/tutorials).
 
 |**Board Version**|**Description**|**Downloads**|
-|:-----:|:-----|:-----:| -->
+|:-----:|:-----|:-----:|
+| V2.0 | Basic ESP32 expansion board | Gerber | -->
+
 
 ## Pin Assignments
+
+### ERM Output Pins
+
+|**Output Pin <br> Location**|**Associated <br> ESP32 Pin**|
+|:-----:|:-----:|
+|<img src="../photos/pins/ERMPinA.png" alt="stretch_module" style="height:50px;">| 34 |
+|<img src="../photos/pins/ERMPinB.png" alt="stretch_module" style="height:50px;">| 35 |
+|<img src="../photos/pins/ERMPinC.png" alt="stretch_module" style="height:50px;">| 25 |
+|<img src="../photos/pins/ERMPinD.png" alt="stretch_module" style="height:50px;">| 26 |
+|<img src="../photos/pins/ERMPinE.png" alt="stretch_module" style="height:50px;">| 27 |
+|<img src="../photos/pins/ERMPinF.png" alt="stretch_module" style="height:50px;">| 14 |
+|<img src="../photos/pins/ERMPinG.png" alt="stretch_module" style="height:50px;">| 12 |
+|<img src="../photos/pins/ERMPinH.png" alt="stretch_module" style="height:50px;">| 13 |
+
+### Servo Output Pins
+
+|**Output Pin <br> Location**|**Associated <br> ESP32 Pin**|
+|:-----:|:-----:|
+|<img src="../photos/pins/ServoPinA.png" alt="stretch_module" style="height:100px;">| 23 |
+|<img src="../photos/pins/ServoPinB.png" alt="stretch_module" style="height:100px;">| 18 |
+|<img src="../photos/pins/ServoPinC.png" alt="stretch_module" style="height:100px;">| 5 |
+|<img src="../photos/pins/ServoPinD.png" alt="stretch_module" style="height:100px;">| 15 |
+|<img src="../photos/pins/ServoPinE.png" alt="stretch_module" style="height:100px;">| 2 |
+|<img src="../photos/pins/ServoPinF.png" alt="stretch_module" style="height:100px;">| 0 |
+|<img src="../photos/pins/ServoPinG.png" alt="stretch_module" style="height:100px;">| 4 |
+|<img src="../photos/pins/ServoPinH.png" alt="stretch_module" style="height:100px;">| 17 |
+
