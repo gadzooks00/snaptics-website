@@ -5,6 +5,7 @@ header_pages:
   - pages/tutorials.md
   - pages/hardware.md
   - pages/electronics.md
+  - pages/software.md
   - pages/FAQ.md
   - pages/aboutus.md
 
