@@ -4,7 +4,7 @@ title: test
 permalink: /test/
 ---
 
-test
+test 2
 <!-- 
 ## Modular Haptic Bracelet:
 
