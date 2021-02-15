@@ -4,6 +4,9 @@ title: Bill of Parts
 permalink: /billofparts/
 ---
 
+<iframe width="450" height="280" src="https://www.tinkercad.com/embed/5sQ1adFSSoV?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+
 ## Modular Haptic Bracelet:
 
 - 5 SG90 Servos (https://www.amazon.com/J-Deal-Micro-Helicopter-Airplane-Controls/dp/B015H5AVZG)
