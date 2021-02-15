@@ -1,7 +1,5 @@
 title: Snaptics
-
-minima:
-  skin: dark
+theme: minima
 
 header_pages:
   - pages/tutorials.md
@@ -10,8 +8,6 @@ header_pages:
   - pages/software.md
   - pages/FAQ.md
   - pages/aboutus.md
-
-theme: minima
 
 plugins:
   - jekyll-seo-tag
