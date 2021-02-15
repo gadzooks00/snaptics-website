@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Bill of Parts
-permalink: /billofparts/
+title: test
+permalink: /test/
 ---
 
+test
+<!-- 
 ## Modular Haptic Bracelet:
 
 - 5 SG90 Servos (https://www.amazon.com/J-Deal-Micro-Helicopter-Airplane-Controls/dp/B015H5AVZG)
@@ -31,4 +33,4 @@ Cost: $40 + Shipping and Filament for printed parts (~$60 total)
 ## (For each) Vibration Module:
 
 - 1 ERM **what kind???**
-- Vibration Base
+- Vibration Base -->
