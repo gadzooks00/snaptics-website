@@ -1,8 +1,6 @@
 title: Snaptics
-theme: minima
-
-minima:
-  skin: dark
+theme:  minima:
+          skin: dark
 
 header_pages:
   - pages/tutorials.md
