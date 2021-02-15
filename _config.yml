@@ -1,7 +1,7 @@
 title: Snaptics
 
 minima:
-  skin: solarized-dark
+  skin: dark
 
 header_pages:
   - pages/tutorials.md
