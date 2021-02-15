@@ -4,6 +4,4 @@
 // Width of the content area
 $content-width:    100%;
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
-  "minima/initialize";
+@import "minima";
