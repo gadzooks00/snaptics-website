@@ -5,6 +5,8 @@ permalink: /test/
 ---
 
 test 2
+
+
 <!-- 
 ## Modular Haptic Bracelet:
 
