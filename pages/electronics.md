@@ -43,12 +43,12 @@ We are still working on production and distribution of our electronics board. Pl
 
 |**Output Pin <br> Location**|**Associated <br> ESP32 Pin**|
 |:-----:|:-----:|
-|<img src="../photos/electronics/ServoPinA.png" alt="stretch_module" style="height:100px;">| 23 |
-|<img src="../photos/electronics/ServoPinB.png" alt="stretch_module" style="height:100px;">| 18 |
-|<img src="../photos/electronics/ServoPinC.png" alt="stretch_module" style="height:100px;">| 5 |
-|<img src="../photos/electronics/ServoPinD.png" alt="stretch_module" style="height:100px;">| 15 |
-|<img src="../photos/electronics/ServoPinE.png" alt="stretch_module" style="height:100px;">| 2 |
-|<img src="../photos/electronics/ServoPinF.png" alt="stretch_module" style="height:100px;">| 0 |
-|<img src="../photos/electronics/ServoPinG.png" alt="stretch_module" style="height:100px;">| 4 |
-|<img src="../photos/electronics/ServoPinH.png" alt="stretch_module" style="height:100px;">| 17 |
+|<img src="../photos/electronics/ServoPinA.png" alt="stretch_module" style="height:100px;">| 18 |
+|<img src="../photos/electronics/ServoPinB.png" alt="stretch_module" style="height:100px;">| 5 |
+|<img src="../photos/electronics/ServoPinC.png" alt="stretch_module" style="height:100px;">| 15 |
+|<img src="../photos/electronics/ServoPinD.png" alt="stretch_module" style="height:100px;">| 2 |
+|<img src="../photos/electronics/ServoPinE.png" alt="stretch_module" style="height:100px;">| 0 |
+|<img src="../photos/electronics/ServoPinF.png" alt="stretch_module" style="height:100px;">| 4 |
+|<img src="../photos/electronics/ServoPinG.png" alt="stretch_module" style="height:100px;">| 17 |
+|<img src="../photos/electronics/ServoPinH.png" alt="stretch_module" style="height:100px;">| 16 |
 
