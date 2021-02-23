@@ -15,6 +15,9 @@ The blank module is a simple rectangular frame of out dimensions with a x-lattic
 |:-----:|:-----|:-----:|
 | **Blank Module** <br> <img src="../photos/hardware/blank_base.jpg" alt="blank_module" style="width:300px;"/> | <iframe width="450" height="280" src="https://www.tinkercad.com/embed/3ZjPoQ7fhec?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> | [3D Model Download](https://www.thingiverse.com/thing:4746724) <br><br> [Solidworks CAD Download](https://rice.box.com/v/snaptics-stretch-module) |
 
+<iframe width="450" height="280" src="https://www.tinkercad.com/embed/3ZjPoQ7fhec?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> 
+
+
 <!-- 
 ## Modular Haptic Bracelet:
 
