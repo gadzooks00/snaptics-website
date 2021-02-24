@@ -12,7 +12,6 @@ The stretch module delivers a tangential skin stretch using a servo motor actuat
 - Motor tab slot: 11.5mm x 3mm 
 - Motor body slot: 12.5mm x 26.5mm 
 - Clip: 18.4mm x 30.2mm x 8mm.
-
   
 ### Downloads
 - [3D Model Download](https://www.thingiverse.com/thing:4746724)
