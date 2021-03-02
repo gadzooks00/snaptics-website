@@ -19,4 +19,4 @@ For makers looking to contribute to Snaptics we recommend the following tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzanBYa82iA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Editing Snaptics Modules
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MzanBYa82iA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9TB1uEbOnMs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
