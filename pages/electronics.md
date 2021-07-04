@@ -14,8 +14,9 @@ The Snaptics control board is an expansion board for a Sparkfun ESP32 Microcontr
 
 The Snaptics PCB board provides mounting pins to attach to a [Sparkfun ESP32 Development Board](https://www.sparkfun.com/products/13907). With the ESP32 as the controller this board allows makers to control up to 8 vibration motors using the ERM output pins and 8 servo motors using the Servo output pins at a time. Servo output pins connect directly into the ESP32 PWM output pins and to motor power while ERM output pins are controlled with a simple onboard MOSFET circuit to simplify the control on the microcontroller. The control board is powered with 6V operating power pack to provide power to the actuation modules. ESP32 power is provided directly to the board using a separate power supply of operating range 2.2V to 3.6V. 
 
-## How to Get a Snaptics Control Board - Under Construction
-We are still working on production and distribution of our electronics board. Please check back here at a later date!
+## How to Get a Snaptics Control Board
+
+We are still working on production and distribution of our electronics board. Please email us at <info@snaptics.org> for more information.
 
 <!-- All documentation and files required for the reproduction of these electronics board are provided below. We recommend outsourcing these boards for production and turnkey assembly to make the process as simple and cheap as possible. While there are many suppliers for PCB manufacture, we have used PCBWay and can confirm the PCBs work. For more detailed instructions on how to obtain your own Snaptics control board please visit our associated [tutorial](www.snaptics.org/tutorials).
 
