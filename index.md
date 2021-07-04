@@ -23,5 +23,3 @@ With snaptics you can quickly and easily build a simple wearable haptic device t
 - For information and templates for Snaptics software see our [Software Page](https://www.snaptics.org/software/)
 - For other questions please see our [FAQ Page](https://www.snaptics.org/faq/) or contact us at <info@snaptics.org>
 - For Snaptics license and publication information see our [About Us Page](https://www.snaptics.org/aboutus/)
-
-### Please note this site is under construction. 
