@@ -16,13 +16,13 @@ The Snaptics PCB board provides mounting pins to attach to a [Sparkfun ESP32 Dev
 
 ## How to Get a Snaptics Control Board
 
-We are still working on production and distribution of our electronics board. Please email us at <info@snaptics.org> for more information.
+All documentation and files required for the reproduction of these electronics board are provided below. We recommend outsourcing these boards for production and turnkey assembly to make the process as simple and cheap as possible. The files have been formatted so that you can upload or send them directly to your favorite board house. Need a recommendation? We have used US-based manufacturers such as [Sunstone Circuits](https://www.sunstone.com/) for basic PCB printing, and both [Sierra Circuits](https://www.protoexpress.com/) and [Screaming Circuits](https://www.screamingcircuits.com/) for turn-key printing and assembly with great results. More economical options are available from Chinese manufacturers such as [PCBWay](https://www.pcbway.com/). 
 
-<!-- All documentation and files required for the reproduction of these electronics board are provided below. We recommend outsourcing these boards for production and turnkey assembly to make the process as simple and cheap as possible. While there are many suppliers for PCB manufacture, we have used PCBWay and can confirm the PCBs work. For more detailed instructions on how to obtain your own Snaptics control board please visit our associated [tutorial](www.snaptics.org/tutorials).
+All designs are licensed under the TAPR Open Hardware License. Feel free to modify and/or redistribute the board designs within the confines of the license, but understand that we are not liable for any damage or harm the amplifier may cause to you or your equipment. It is your responsibility to safely integrate the amplifier with your projects.
 
 |**Board Version**|**Description**|**Downloads**|
 |:-----:|:-----|:-----:|
-| V2.0 | Basic ESP32 expansion board | Gerber | -->
+| V3.0 | Basic ESP32 Control Board | [ESP32 Control Schematic v3.zip](https://github.com/mahilab/Snaptics/blob/main/ESP32%20Control%20Schematic%20v3.zip) |
 
 
 ## Pin Assignments
